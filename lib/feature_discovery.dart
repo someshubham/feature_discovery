@@ -8,6 +8,7 @@ export 'src/foundation/persistence_provider.dart';
 export 'src/widgets.dart'
     show
         DescribedFeatureOverlay,
+        FullScreenFeatureOverlay,
         OverflowMode,
         EnsureVisible,
         EnsureVisibleState;
