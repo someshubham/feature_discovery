@@ -9,6 +9,7 @@ export 'src/widgets.dart'
     show
         DescribedFeatureOverlay,
         FullScreenFeatureOverlay,
+        CustomTargetFeatureOverlay,
         OverflowMode,
         EnsureVisible,
         EnsureVisibleState;
